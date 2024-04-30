@@ -1,0 +1,46 @@
+.item{
+    background-color: white;
+    border-radius: 10px;
+    padding: 20px;
+    font-size: 15px;
+    font-weight: 500;
+    margin: 20px;
+    width: 400px;
+}
+.button{
+    background-color: green;
+    padding: 6px 10px;
+}
+.completed{
+    background-color: rgb(175, 177, 175);
+    border-radius: 10px;
+    padding: 20px;
+    font-size: 15px;
+    font-weight: 500;
+
+}
+
+
+@media screen and (max-width:768px) {
+    .item{
+        background-color: white;
+        border-radius: 10px;
+        padding: 20px;
+        font-size: 15px;
+        font-weight: 500;
+        margin: 20px;
+        width: 250px;
+    }
+    .button{
+        background-color: green;
+        padding: 6px 10px;
+    }
+    .completed{
+        background-color: rgb(175, 177, 175);
+        border-radius: 10px;
+        padding: 20px;
+        font-size: 15px;
+        font-weight: 500;
+    
+    }
+}

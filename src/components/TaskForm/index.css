@@ -1,0 +1,31 @@
+.input-field{
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+
+/* App.css */
+.button {
+    background-color: rgb(94, 151, 236);
+    padding: 10px 20px;
+    width: 130px;
+    font-weight: 600;
+    border-radius: 20px;
+    border: none;
+    transition: background-color 0.3s ease;
+  }
+  
+  .button:hover {
+    background-color: rgb(70, 125, 210);
+  }
+  
+  .button:active {
+    background-color: rgb(40, 95, 180);
+  }
+  
+  .task-form{
+    background-color: white;
+    border-radius: 15px;
+    padding: 20px;
+  }
+
+  
